@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:2:1-8:12
+	package
+		INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+		ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:2:1-8:12
+		INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:3:5-7:19
+activity#com.face.demo.facefunc.FaceLivenessComposeActivity
+ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:4:9-6:40
+	android:exported
+		ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:6:13-37
+	android:name
+		ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:5:13-78
+uses-sdk
+INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+		ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+		INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+		ADDED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+		INJECTED from D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml

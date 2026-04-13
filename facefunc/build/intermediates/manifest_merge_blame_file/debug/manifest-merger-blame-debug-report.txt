@@ -1,0 +1,18 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.face.demo.facefunc" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml
+6
+7    <application>
+7-->D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:3:5-7:19
+8        <activity
+8-->D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:4:9-6:40
+9            android:name="com.face.demo.facefunc.FaceLivenessComposeActivity"
+9-->D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:5:13-78
+10            android:exported="false" />
+10-->D:\FaceLiveStill_5.8.15DP_A\FaceLiveStill_5.8.15DP_A\Android\standard\demo\FaceDetectV5Demo\facefunc\src\main\AndroidManifest.xml:6:13-37
+11    </application>
+12
+13</manifest>

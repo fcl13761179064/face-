@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bt_public"
+        android:layout_width="160dp"
+        android:layout_height="44dp"
+        android:text="公有云"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/selector_start_button"
+        />
+
+
+    <Button
+        android:id="@+id/bt_private"
+        android:layout_width="160dp"
+        android:layout_height="44dp"
+        android:text="私有云"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/selector_start_button"
+        android:layout_below="@id/bt_public"
+        android:layout_marginTop="20dp"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.face.demo.facefunc" >
+
+    <uses-sdk android:minSdkVersion="21" />
+
+    <application>
+        <activity
+            android:name="com.face.demo.facefunc.FaceLivenessComposeActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
